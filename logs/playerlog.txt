@@ -1,4 +1,52 @@
-OGar Server - Game Mode: Free For All - Running Time: 1sec
-ID:    1, Nick: [BOT] Yaranaika, Score:     12, Cells:  1, Status: 1 IP: BOT
-ID:    2, Nick: [BOT] Patriarchy, Score:     10, Cells:  1, Status: 1 IP: BOT
-ID:    3, Nick: [BOT] USA      , Score:     11, Cells:  1, Status: 1 IP: BOT
+OGar Server - Game Mode: Free For All - Running Time: 674sec
+ID:    1, Nick: [BOT] Quemal             , Score:    994, Cells: 37, Status: 1 IP: BOT
+ID:    2, Nick: [BOT] Не нужно кусать меня господин вампир, Score:   2759, Cells: 114, Status: 1 IP: BOT
+ID:    3, Nick: [BOT] ОнМеняУчил         , Score:    858, Cells: 34, Status: 1 IP: BOT
+ID:    4, Nick: [BOT] Горн               , Score:   1696, Cells: 78, Status: 1 IP: BOT
+ID:    5, Nick: [BOT] За_ВМЗ             , Score:   1789, Cells: 59, Status: 1 IP: BOT
+ID:    6, Nick: [BOT] ВеСеЛкА            , Score:    650, Cells: 22, Status: 1 IP: BOT
+ID:    7, Nick: [BOT] Daiktilar          , Score:    999, Cells: 34, Status: 1 IP: BOT
+ID:    8, Nick: [BOT] Разбуди меня!      , Score:   1358, Cells: 71, Status: 1 IP: BOT
+ID:    9, Nick: [BOT] Braned             , Score:   2370, Cells: 16, Status: 1 IP: BOT
+ID:   10, Nick: [BOT] Cyberкотлета:D     , Score:   1067, Cells: 19, Status: 1 IP: BOT
+ID:   11, Nick: [BOT] Певец              , Score:   1064, Cells: 16, Status: 1 IP: BOT
+ID:   12, Nick: [BOT] скрипач            , Score:   2433, Cells: 150, Status: 1 IP: BOT
+ID:   13, Nick: [BOT] твой ад            , Score:   3731, Cells: 112, Status: 1 IP: BOT
+ID:   14, Nick: [BOT] Да_я_Ад            , Score:   1171, Cells: 30, Status: 1 IP: BOT
+ID:   15, Nick: [BOT] Я_Бегу_Назад       , Score:    653, Cells: 26, Status: 1 IP: BOT
+ID:   16, Nick: [BOT] Доступ_закрыт      , Score:    514, Cells: 18, Status: 1 IP: BOT
+ID:   17, Nick: [BOT] Е_с_Т_ь___К_т_О___Р_у_С_с_К_и_Е, Score:    550, Cells: 10, Status: 1 IP: BOT
+ID:   18, Nick: [BOT] Сибирь             , Score:   2003, Cells: 65, Status: 1 IP: BOT
+ID:   19, Nick: [BOT] Кировограда лесенград, Score:    734, Cells: 12, Status: 1 IP: BOT
+ID:   20, Nick: [BOT] Ты_мой_сладкий_кайф, Score:    548, Cells: 10, Status: 1 IP: BOT
+ID:   21, Nick: [BOT] Kuve               , Score:   1220, Cells: 46, Status: 1 IP: BOT
+ID:   22, Nick: [BOT] Архандула          , Score:   1734, Cells:  2, Status: 1 IP: BOT
+ID:   23, Nick: [BOT] Juce               , Score:    466, Cells: 17, Status: 1 IP: BOT
+ID:   24, Nick: [BOT] Шашалычки          , Score:   1152, Cells: 46, Status: 1 IP: BOT
+ID:   25, Nick: [BOT] Erennge            , Score:   1823, Cells:  9, Status: 1 IP: BOT
+ID:   26, Nick: [BOT] Xisyaco            , Score:   2942, Cells: 150, Status: 1 IP: BOT
+ID:   27, Nick: [BOT] Честный            , Score:   4814, Cells:  6, Status: 1 IP: BOT
+ID:   28, Nick: [BOT] Дьявольский_слух   , Score:   2059, Cells: 35, Status: 1 IP: BOT
+ID:   29, Nick: [BOT] о повезло повезло  , Score:    873, Cells: 29, Status: 1 IP: BOT
+ID:   30, Nick: [BOT] ванильный_дождик   , Score:    622, Cells: 11, Status: 1 IP: BOT
+ID:   31, Nick: [BOT] АдмиРАл            , Score:   2373, Cells: 72, Status: 1 IP: BOT
+ID:   32, Nick: [BOT] ВАНЬКА             , Score:   2034, Cells: 53, Status: 1 IP: BOT
+ID:   33, Nick: [BOT] ДОСТУП_ЗАКРЫТ      , Score:   1028, Cells: 48, Status: 1 IP: BOT
+ID:   34, Nick: [BOT] Quamar             , Score:    623, Cells: 13, Status: 1 IP: BOT
+ID:   35, Nick: [BOT] Оригинал           , Score:    763, Cells: 35, Status: 1 IP: BOT
+ID:   36, Nick: [BOT] АннаВай            , Score:   1379, Cells: 61, Status: 1 IP: BOT
+ID:   37, Nick: [BOT] Не_трогай_холодильник, Score:    432, Cells: 16, Status: 1 IP: BOT
+ID:   38, Nick: [BOT] Delan              , Score:   2049, Cells: 79, Status: 1 IP: BOT
+ID:   39, Nick: [BOT] Kakashkaliandiia   , Score:    708, Cells: 20, Status: 1 IP: BOT
+ID:   40, Nick: [BOT] Gashakar           , Score:    752, Cells: 42, Status: 1 IP: BOT
+ID:   41, Nick: [BOT] Бородяга           , Score:   2546, Cells: 150, Status: 1 IP: BOT
+ID:   42, Nick: [BOT] Рогатый Ангел      , Score:   1610, Cells: 17, Status: 1 IP: BOT
+ID:   43, Nick: [BOT] ОпаПопа            , Score:    646, Cells: 14, Status: 1 IP: BOT
+ID:   44, Nick: [BOT] Наши мозги         , Score:   1282, Cells: 77, Status: 1 IP: BOT
+ID:   45, Nick: [BOT] Твой малыш         , Score:   5605, Cells: 24, Status: 1 IP: BOT
+ID:   46, Nick: [BOT] Не Стоит           , Score:   1119, Cells: 66, Status: 1 IP: BOT
+ID:   47, Nick: [BOT] Gadar              , Score:   1267, Cells: 71, Status: 1 IP: BOT
+ID:   48, Nick: [BOT] ШМЯКС              , Score:   2496, Cells: 35, Status: 1 IP: BOT
+ID:   49, Nick: [BOT] Dark Devil         , Score:   3703, Cells: 125, Status: 1 IP: BOT
+ID:   50, Nick: [BOT] Azago              , Score:    958, Cells: 44, Status: 1 IP: BOT
+ID:   51, Nick: Диарея                   , Score:   2633, Cells: 146, Status: 0 IP: 95.53.50.138
